@@ -13,11 +13,11 @@ ECMAScript 模块化练习
 ```bash
 node --experimental-modules xxx.mjs
 ```
-课程里为了演示的方便，都配置了`npm scripts`命令了，你只需用以下命令即可在控制台中看到效果
+课程里为了演示的方便，都配置了`npm scripts`命令了，你只需用在指定课程目录下，输入以下命令即可在控制台中看到效果
 ```bash
 npm run test
 ```
-有些课程里面可能还会运行在浏览器中，此时你需要安装好相关的依赖，然后运行，具体命令如下：
+有些课程里面可能还会运行在浏览器中，此时你需要在指定课程目录下安装好相关的依赖，然后运行，具体命令如下：
 ```bash
 npm install
 npm run open
