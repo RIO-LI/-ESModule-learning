@@ -1,0 +1,20 @@
+{
+  "name": "lesson01",
+  "version": "1.0.0",
+  "description": "学习ESModule用*整体导入和单个导入的区别",
+  "main": "main.mjs",
+  "scripts": {
+    "open": "http-server  -p 2019 -o -c1",
+    "test": "node --experimental-modules  main.mjs"
+  },
+  "keywords": [
+    "ESModule",
+    "ES6",
+    "ES2015"
+  ],
+  "author": "RIO-LI",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "0.11.1"
+  }
+}

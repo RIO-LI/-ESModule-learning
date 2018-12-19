@@ -1,0 +1,16 @@
+{
+  "name": "lesson01",
+  "version": "1.0.0",
+  "description": "学习ESModule 模块重定向功能",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "node --experimental-modules  main.mjs"
+  },
+  "keywords": [
+    "ESModule",
+    "ES6",
+    "ES2015"
+  ],
+  "author": "RIO-LI",
+  "license": "MIT"
+}

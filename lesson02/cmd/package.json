@@ -1,0 +1,11 @@
+{
+  "name": "cmd",
+  "version": "1.0.0",
+  "description": "commonjs模块下，对于导出模块内容的修改",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "RIO-LI",
+  "license": "MIT"
+}
