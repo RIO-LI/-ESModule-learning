@@ -9,13 +9,3 @@ export const people = {
     name: 'rioli',
     cities: ['jieyang', 'shenzhen']
 };
-
-export default class Animal {
-    constructor(name) {
-        this.name = name;
-    }
-
-    say() {
-        return `I am ${this.name}`;
-    }
-}
